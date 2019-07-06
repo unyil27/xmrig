@@ -1,0 +1,38 @@
+{
+    "algo": "cryptonight",
+    "api": {
+        "port": 8081,
+        "access-token": null,
+        "worker-id": "kinan",
+        "ipv6": true,
+        "restricted": true
+    },
+    "av": 0,
+    "background": true,
+    "colors": true,
+    "cpu-affinity": null,
+    "cpu-priority": 4,
+    "donate-level": 0,
+    "huge-pages": true,
+    "hw-aes": null,
+    "log-file": null,
+    "max-cpu-usage": 100,
+    "pools": [
+        {
+            "url": "pool.simpleco.in",
+            "user": "unyil27.36943",
+            "pass": "x",
+            "keepalive": true,
+            "nicehash": true,
+            "variant": -1,
+            "tls": false,
+            "tls-fingerprint": null
+        }
+    ],
+    "print-time": 60,
+    "retries": 5,
+    "retry-pause": 5,
+    "safe": false,
+    "syslog": false,
+    "threads": null
+}
